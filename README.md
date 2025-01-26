@@ -1,6 +1,8 @@
 # Install the related dependencies
 
+```
 npm install --save-dev vitest @testing-library/react @testing-library/jest-dom jsdom @types/jest
+```
 
 # Change the vite.config.ts file
 ```
